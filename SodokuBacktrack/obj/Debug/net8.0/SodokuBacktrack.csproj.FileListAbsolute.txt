@@ -1,0 +1,14 @@
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\bin\Debug\net8.0\SodokuBacktrack.exe
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\bin\Debug\net8.0\SodokuBacktrack.deps.json
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\bin\Debug\net8.0\SodokuBacktrack.runtimeconfig.json
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\bin\Debug\net8.0\SodokuBacktrack.dll
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\bin\Debug\net8.0\SodokuBacktrack.pdb
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.AssemblyInfoInputs.cache
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.AssemblyInfo.cs
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.csproj.CoreCompileInputs.cache
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.dll
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\refint\SodokuBacktrack.dll
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.pdb
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\SodokuBacktrack.genruntimeconfig.cache
+C:\Users\Zsolti\Desktop\THE\3. félév\Mesterséges intelligencia és neurális hálózatok\SodokuBacktrack\SodokuBacktrack\obj\Debug\net8.0\ref\SodokuBacktrack.dll
